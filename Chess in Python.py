@@ -1,6 +1,4 @@
-"""CONVENTIONS:
-positions are done row-column from the bottom left and are both numbers. This corresponds to the alpha-number system in traditional chess while being computationally useful. they are specified as tuples
-"""
+Credit - Github
 import itertools
 WHITE = "white"
 BLACK = "black"
