@@ -1,3 +1,4 @@
+Credits - Sololearn
 import numpy as np 
 data = [23,45,67,54,66,77,323,11,32,18]
 
