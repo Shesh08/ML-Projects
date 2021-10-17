@@ -1,4 +1,4 @@
-Credit - Github
+#Credit - Github
 import itertools
 WHITE = "white"
 BLACK = "black"
